@@ -32,3 +32,10 @@ _tmp.pkl
 
 # Logs
 *.log
+
+# LaTeX
+*.tex
+*.pdf
+*.aux
+*.log
+*.synctex.gz
